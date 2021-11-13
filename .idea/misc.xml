@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/messagebackgroun.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/recieverchatdrawble.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/register_button.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/searchicon.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/senderchatdrawable.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable-v24/userdetails.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_camerafragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_create_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_login_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_otp_authentication.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_set_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_sign_in_with_mobile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_signup_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_specificchat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/activity_update_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/callfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/chatfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/chatviewlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/fragment_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/recieverchatlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Khadija/AndroidStudioProjects/18I0718_17I04/app/src/main/res/layout/senderchatlayout.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
